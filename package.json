@@ -1,0 +1,28 @@
+{
+  "name": "pricingcalculatorwdirectory",
+  "version": "1.0.0",
+  "description": "This project is a 3D Staircase Configurator built using Three.js. It allows users to visually configure and receive quotes for custom staircase designs including straight, L-shaped, U-shaped, spiral, and cantilevered options with various materials and balustrades.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --open --mode development",
+    "build": "webpack --mode production"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.4",
+    "babel-loader": "^9.2.1",
+    "css-loader": "^7.1.2",
+    "html-webpack-plugin": "^5.6.0",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.94.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.1.0"
+  },
+  "dependencies": {
+    "three": "^0.168.0"
+  }
+}
