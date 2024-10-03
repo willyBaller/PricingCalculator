@@ -85,12 +85,7 @@ Future Features (Optional)
 Add More Stair Types: Expand the project to include spiral, cantilever, or other custom staircase types.
 Material Customization: Allow users to select from more material types or customize components like handrails or stringers.
 User Authentication: Integrate a backend for user login and quote history management.
-Performance Optimization: Further optimize large models or add support for lazy loading textures.
-Contributing
-Feel free to contribute to the project by submitting pull requests or opening issues. We welcome new features, bug fixes, and performance improvements.
-
-License
-This project is licensed under the MIT License.
+Performance Optimization: Further optimize large models or add support for lazy loading textures
 
 
 ---
